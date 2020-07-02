@@ -935,3 +935,835 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.02-12.25.04:075][754]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/MainlevelA457F2E6449F2D37266575B63B455C69.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap'
 [2020.07.02-12.25.04:131][754]AssetCheck: New page: Asset Save: Mainlevel
 [2020.07.02-12.25.04:132][754]LogContentValidation: Display: Validating World /Game/Levels/Mainlevel.Mainlevel
+[2020.07.02-12.25.48:206][410]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.02-12.25.48:235][410]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel' with GeneratedClass '/Game/Levels/Mainlevel.Mainlevel_C' with ClassGeneratedBy '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel'
+[2020.07.02-12.25.48:236][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-12.25.48:236][410]PIE: New page: PIE session: Mainlevel (3 Jul 2020, 8:25:48 am)
+[2020.07.02-12.25.48:236][410]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Mainlevel
+[2020.07.02-12.25.48:300][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063700s)
+[2020.07.02-12.25.48:301][410]LogAIModule: Creating AISystem for world Mainlevel
+[2020.07.02-12.25.48:301][410]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2020.07.02-12.25.48:301][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Mainlevel.Mainlevel to /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel (0.065358s)
+[2020.07.02-12.25.48:351][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.07.02-12.25.48:353][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.02-12.25.48:353][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.02-12.25.48:353][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.02-12.25.48:353][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.02-12.25.48:353][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.02-12.25.48:353][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.02-12.25.48:353][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.02-12.25.48:353][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.02-12.25.48:354][410]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.02-12.25.48:354][410]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: Is Default: Yes
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: Sample Rate: 96000
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: Channel Order:
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.02-12.25.48:396][410]LogAudioMixer: Display: 1: FrontRight
+[2020.07.02-12.25.48:415][410]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.07.02-12.25.48:417][410]LogInit: FAudioDevice initialized.
+[2020.07.02-12.25.48:428][410]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.07.02-12.25.48:441][410]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2020.07.02-22.25.48
+[2020.07.02-12.25.48:441][410]LogWorld: Bringing up level for play took: 0.012214
+[2020.07.02-12.25.48:455][410]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.07.02-12.25.48:460][410]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Mainlevel -0.727
+[2020.07.02-12.25.48:461][410]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel' with GeneratedClass '/Game/Levels/Mainlevel.Mainlevel_C' with ClassGeneratedBy '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel'
+[2020.07.02-12.25.51:214][721]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 29
+[2020.07.02-12.25.51:214][721]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.51:214][721]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.51:331][735]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 28
+[2020.07.02-12.25.51:331][735]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.51:331][735]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.51:456][750]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 27
+[2020.07.02-12.25.51:456][750]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.51:456][750]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.51:581][765]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 26
+[2020.07.02-12.25.51:581][765]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.51:581][765]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.51:705][780]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 25
+[2020.07.02-12.25.51:706][780]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.51:706][780]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.52:110][827]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 24
+[2020.07.02-12.25.52:110][827]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.52:110][827]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.52:228][841]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 23
+[2020.07.02-12.25.52:228][841]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.52:228][841]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.52:354][856]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 22
+[2020.07.02-12.25.52:354][856]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.52:354][856]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.52:479][871]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 21
+[2020.07.02-12.25.52:479][871]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.52:955][928]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 20
+[2020.07.02-12.25.52:956][928]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.52:956][928]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.53:072][942]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 19
+[2020.07.02-12.25.53:072][942]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.53:072][942]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.53:197][957]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 18
+[2020.07.02-12.25.53:197][957]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.53:197][957]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.53:635][  8]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 17
+[2020.07.02-12.25.53:635][  8]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.53:636][  8]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.53:752][ 22]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 16
+[2020.07.02-12.25.53:752][ 22]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.53:752][ 22]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.54:478][109]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 15
+[2020.07.02-12.25.54:479][109]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.54:479][109]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.54:596][123]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 14
+[2020.07.02-12.25.54:596][123]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.54:596][123]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.54:722][138]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 13
+[2020.07.02-12.25.54:722][138]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.54:722][138]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.55:172][192]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 12
+[2020.07.02-12.25.55:172][192]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.55:172][192]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.55:287][205]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 11
+[2020.07.02-12.25.55:287][205]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.55:287][205]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.55:412][220]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 10
+[2020.07.02-12.25.55:412][220]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.55:412][220]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.55:937][283]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 9
+[2020.07.02-12.25.55:937][283]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.55:937][283]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.56:054][297]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 8
+[2020.07.02-12.25.56:054][297]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.56:054][297]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.56:179][312]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 7
+[2020.07.02-12.25.56:179][312]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.56:179][312]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.56:538][355]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 6
+[2020.07.02-12.25.56:538][355]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.56:538][355]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.56:652][368]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 5
+[2020.07.02-12.25.56:652][368]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.56:652][368]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.56:777][383]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 4
+[2020.07.02-12.25.56:777][383]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.56:777][383]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.57:186][432]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 3
+[2020.07.02-12.25.57:186][432]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.57:186][432]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.57:302][446]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 2
+[2020.07.02-12.25.57:302][446]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.57:302][446]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.25.57:427][461]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 1
+[2020.07.02-12.25.57:427][461]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.57:552][476]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 0
+[2020.07.02-12.25.57:552][476]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.25.57:960][525]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Reload Empty
+[2020.07.02-12.26.01:784][982]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 29
+[2020.07.02-12.26.01:784][982]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.01:784][982]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.26.18:341][956]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 28
+[2020.07.02-12.26.18:341][956]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.18:431][966]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 27
+[2020.07.02-12.26.18:431][966]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.18:552][979]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 26
+[2020.07.02-12.26.18:552][979]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.18:678][994]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 25
+[2020.07.02-12.26.18:678][994]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.18:803][  9]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 24
+[2020.07.02-12.26.18:803][  9]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.18:929][ 24]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 23
+[2020.07.02-12.26.18:929][ 24]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.19:054][ 39]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 22
+[2020.07.02-12.26.19:054][ 39]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.19:179][ 54]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 21
+[2020.07.02-12.26.19:179][ 54]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.26.19:264][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.26.19:278][ 64]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.02-12.26.19:307][ 64]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.02-12.26.19:307][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel' with GeneratedClass '/Game/Levels/Mainlevel.Mainlevel_C' with ClassGeneratedBy '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel'
+[2020.07.02-12.26.19:307][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.26.19:307][ 64]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mainlevel
+[2020.07.02-12.26.19:308][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.26.19:308][ 64]LogWorld: UWorld::CleanupWorld for Mainlevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.26.19:311][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.26.19:319][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-12.26.19:319][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel' with GeneratedClass '/Game/Levels/Mainlevel.Mainlevel_C' with ClassGeneratedBy '/Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel'
+[2020.07.02-12.26.19:327][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.26.19:371][ 64]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.26.19:375][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.26.19:384][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.07.02-12.26.19:410][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.07.02-12.27.13:628][409]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Mainlevel.Mainlevel
+[2020.07.02-12.27.13:672][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.07.02-12.27.13:677][409]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-12.27.13:677][409]LightingResults: New page: Lighting Build
+[2020.07.02-12.27.13:678][409]LoadErrors: New page: Loading map: Mainlevel.umap
+[2020.07.02-12.27.13:681][409]LogWorld: UWorld::CleanupWorld for Mainlevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.27.13:681][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.27.13:681][409]MapCheck: New page: Map Check
+[2020.07.02-12.27.13:682][409]LightingResults: New page: Lighting Build
+[2020.07.02-12.27.13:735][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2020.07.02-12.27.13:786][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.07.02-12.27.13:833][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.07.02-12.27.13:882][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2020.07.02-12.27.13:930][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.07.02-12.27.13:979][409]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.07.02-12.27.14:135][409]LogAIModule: Creating AISystem for world Mainlevel
+[2020.07.02-12.27.14:291][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-12.27.14:364][409]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.07.02-12.27.14:390][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-12.27.14:391][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.51ms to complete.
+[2020.07.02-12.27.14:391][409]LogFileHelpers: Loading map 'Mainlevel' took 0.715
+[2020.07.02-12.27.16:864][666]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.27.16:864][666]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.07.02-12.27.16:911][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.07.02-12.27.16:913][666]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-12.27.16:913][666]LightingResults: New page: Lighting Build
+[2020.07.02-12.27.16:914][666]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.07.02-12.27.16:917][666]LogWorld: UWorld::CleanupWorld for Mainlevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.27.16:917][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.27.16:917][666]MapCheck: New page: Map Check
+[2020.07.02-12.27.16:917][666]LightingResults: New page: Lighting Build
+[2020.07.02-12.27.16:969][666]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.07.02-12.27.17:056][666]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-12.27.17:106][666]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.07.02-12.27.17:134][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-12.27.17:135][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.393ms to complete.
+[2020.07.02-12.27.17:135][666]LogFileHelpers: Loading map 'MainMenu' took 0.222
+[2020.07.02-12.27.29:924][120]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.07.02-12.29.21:404][725]LogSlate: Took 0.033975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.02-12.31.17:785][793]BlueprintLog: New page: Compile MainMenu
+[2020.07.02-12.31.17:799][793]LogBlueprint: Error: [Compiler PersistentLevel.MainMenu] Spawn node  Create Widget  must have a class specified.
+[2020.07.02-12.31.17:887][793]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.07.02-12.31.18:655][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.02-12.31.18:711][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.07.02-12.31.18:814][857]LogBlueprint: Error: [Compiler PersistentLevel.MainMenu] Spawn node  Create Widget  must have a class specified.
+[2020.07.02-12.31.19:268][857]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/MainMenu154354A343F4B385DBDAD3B30292020B.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap'
+[2020.07.02-12.31.19:300][857]LogFileHelpers: Saving map 'MainMenu' took 0.646
+[2020.07.02-12.31.19:346][857]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.02-12.31.19:346][857]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.07.02-12.31.27:502][717]BlueprintLog: New page: Compile MainMenu
+[2020.07.02-12.31.27:888][717]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.07.02-12.31.29:037][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.02-12.31.29:093][845]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.07.02-12.31.29:531][845]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/MainMenu44DFF1BE439C46C4529BAA8F8BB5F466.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap'
+[2020.07.02-12.31.29:562][845]LogFileHelpers: Saving map 'MainMenu' took 0.526
+[2020.07.02-12.31.29:579][845]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.02-12.31.29:579][845]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.07.02-12.31.33:504][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.02-12.31.33:556][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.07.02-12.31.33:996][283]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/MainMenu8B5C299747D49BEF40619187F19D2FF5.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap'
+[2020.07.02-12.31.34:027][283]LogFileHelpers: Saving map 'MainMenu' took 0.524
+[2020.07.02-12.31.34:045][283]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.02-12.31.34:045][283]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.07.02-12.32.54:390][231]BlueprintLog: New page: Compile MainMenu
+[2020.07.02-12.32.54:772][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.07.02-12.32.55:342][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.02-12.32.55:396][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.07.02-12.32.55:842][288]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/MainMenuCBE68946437135A8461DE9A76AF32651.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap'
+[2020.07.02-12.32.55:874][288]LogFileHelpers: Saving map 'MainMenu' took 0.533
+[2020.07.02-12.32.55:893][288]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.02-12.32.55:894][288]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
+[2020.07.02-12.33.36:605][226]LogAIModule: Creating AISystem for world Mainlevel
+[2020.07.02-12.33.36:623][226]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Mainlevel.Mainlevel
+[2020.07.02-12.33.36:679][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.07.02-12.33.36:682][226]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-12.33.36:683][226]LightingResults: New page: Lighting Build
+[2020.07.02-12.33.36:684][226]LoadErrors: New page: Loading map: Mainlevel.umap
+[2020.07.02-12.33.36:858][226]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.33.36:858][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.33.36:983][226]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.33.36:983][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.33.36:983][226]MapCheck: New page: Map Check
+[2020.07.02-12.33.36:984][226]LightingResults: New page: Lighting Build
+[2020.07.02-12.33.37:051][226]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2020.07.02-12.33.37:211][226]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-12.33.37:285][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.07.02-12.33.37:313][226]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-12.33.37:313][226]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.449ms to complete.
+[2020.07.02-12.33.37:313][226]LogFileHelpers: Loading map 'Mainlevel' took 0.632
+[2020.07.02-12.33.41:956][666]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel
+[2020.07.02-12.36.43:273][424]BlueprintLog: New page: Compile Mainlevel
+[2020.07.02-12.36.43:688][424]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.07.02-12.36.44:318][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mainlevel" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.02-12.36.44:374][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.07.02-12.36.50:877][486]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/Mainlevel3AFD53224BA4687B3C5328847DDA0686.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap'
+[2020.07.02-12.36.51:334][486]LogFileHelpers: Saving map 'Mainlevel' took 7.018
+[2020.07.02-12.36.51:406][486]AssetCheck: New page: Asset Save: Mainlevel
+[2020.07.02-12.36.51:406][486]LogContentValidation: Display: Validating World /Game/Levels/Mainlevel.Mainlevel
+[2020.07.02-12.37.49:033][396]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2020.07.02-12.39.38:541][830]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.02-12.43.24:838][473]BlueprintLog: New page: Compile Mainmenu
+[2020.07.02-12.43.24:904][473]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.07.02-12.43.25:550][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Mainmenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset" SILENT=true
+[2020.07.02-12.43.25:970][518]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/Mainmenu82A481CB4F9C91BE6FF989BB6FAD802A.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset'
+[2020.07.02-12.43.26:002][518]AssetCheck: New page: Asset Save: Mainmenu
+[2020.07.02-12.43.26:002][518]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Mainmenu.Mainmenu
+[2020.07.02-12.44.35:559][870]BlueprintLog: New page: Compile Mainmenu
+[2020.07.02-12.44.35:620][870]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.07.02-12.44.36:402][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Mainmenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset" SILENT=true
+[2020.07.02-12.44.36:777][932]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/Mainmenu7839D4834837AA24754A4E9F54CC5A93.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset'
+[2020.07.02-12.44.36:802][932]AssetCheck: New page: Asset Save: Mainmenu
+[2020.07.02-12.44.36:802][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Mainmenu.Mainmenu
+[2020.07.02-12.44.43:212][539]BlueprintLog: New page: Compile Mainmenu
+[2020.07.02-12.44.43:271][539]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2020.07.02-12.44.43:820][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Mainmenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset" SILENT=true
+[2020.07.02-12.44.44:126][579]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/Mainmenu4AF2DD7F4BE39AB5B8E8DD9AEFEE0614.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset'
+[2020.07.02-12.44.44:150][579]AssetCheck: New page: Asset Save: Mainmenu
+[2020.07.02-12.44.44:150][579]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Mainmenu.Mainmenu
+[2020.07.02-12.44.51:218][118]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.44.51:219][118]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.07.02-12.44.51:274][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.07.02-12.44.58:032][118]LogSlate: Window 'Save Content' being destroyed
+[2020.07.02-12.44.58:062][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Mainlevel" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.02-12.44.58:111][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.07.02-12.45.04:205][118]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/Mainlevel57BA66A343DB89E8E4354F8D8C83025C.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap'
+[2020.07.02-12.45.04:617][118]LogFileHelpers: Saving map 'Mainlevel' took 6.556
+[2020.07.02-12.45.04:618][118]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-12.45.04:618][118]LightingResults: New page: Lighting Build
+[2020.07.02-12.45.04:619][118]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.07.02-12.45.04:681][118]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.45.04:681][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.45.04:726][118]LogWorld: UWorld::CleanupWorld for Mainlevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.45.04:726][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.45.04:727][118]MapCheck: New page: Map Check
+[2020.07.02-12.45.04:727][118]LightingResults: New page: Lighting Build
+[2020.07.02-12.45.04:787][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.07.02-12.45.04:884][118]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-12.45.04:936][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.07.02-12.45.04:961][118]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-12.45.04:961][118]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.374ms to complete.
+[2020.07.02-12.45.04:961][118]LogFileHelpers: Loading map 'MainMenu' took 0.344
+[2020.07.02-12.45.05:028][118]AssetCheck: New page: Asset Save: Mainlevel
+[2020.07.02-12.45.05:028][118]LogContentValidation: Display: Validating World /Game/Levels/Mainlevel.Mainlevel
+[2020.07.02-12.45.05:170][118]LogAIModule: Creating AISystem for world Mainlevel
+[2020.07.02-12.45.12:222][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.45.12:222][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-12.45.12:222][886]PIE: New page: PIE session: MainMenu (3 Jul 2020, 8:45:12 am)
+[2020.07.02-12.45.12:222][886]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.45.12:224][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001389s)
+[2020.07.02-12.45.12:225][886]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.45.12:225][886]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2020.07.02-12.45.12:225][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.003055s)
+[2020.07.02-12.45.12:282][886]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.07.02-12.45.12:284][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.02-12.45.12:284][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.02-12.45.12:284][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.02-12.45.12:284][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.02-12.45.12:284][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.02-12.45.12:284][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.02-12.45.12:284][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.02-12.45.12:284][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.02-12.45.12:285][886]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.02-12.45.12:285][886]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.02-12.45.12:329][886]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: Is Default: Yes
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: Sample Rate: 96000
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: Channel Order:
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.02-12.45.12:330][886]LogAudioMixer: Display: 1: FrontRight
+[2020.07.02-12.45.12:351][886]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.07.02-12.45.12:352][886]LogInit: FAudioDevice initialized.
+[2020.07.02-12.45.12:404][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.45.12:404][886]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.07.02-12.45.12:405][886]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.02-22.45.12
+[2020.07.02-12.45.12:405][886]LogWorld: Bringing up level for play took: 0.000378
+[2020.07.02-12.45.12:405][886]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.07.02-12.45.12:436][886]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.02-12.45.12:477][886]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.709
+[2020.07.02-12.45.12:478][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.45.12:507][887]LogRenderer: Reallocating scene render targets to support 856x480 Format 10 NumSamples 1 (Frame:1).
+[2020.07.02-12.45.13:192][959]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.45.13:204][959]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.45.13:218][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.45.15:736][ 70]LogPackageName: SearchForPackageOnDisk took   1.550s, but failed to resolve Mainelevel.umap.
+[2020.07.02-12.45.16:376][ 70]LogPackageName: SearchForPackageOnDisk took   0.622s, but failed to resolve Mainelevel.umap.
+[2020.07.02-12.45.16:400][ 70]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.07.02-12.45.16:400][ 70]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.07.02-12.45.16:400][ 70]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2020.07.02-12.45.16:470][ 70]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2020.07.02-12.45.16:470][ 70]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.07.02-12.45.16:470][ 70]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2020.07.02-12.45.16:470][ 70]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2020.07.02-12.45.16:471][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.45.16:487][ 70]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.02-12.45.16:507][ 70]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.02-12.45.16:507][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.45.16:508][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.45.16:508][ 70]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.45.16:522][ 70]LogSlate: Window 'ZombiesBruh Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.02-12.45.16:541][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.45.16:541][ 70]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.45.16:542][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.45.16:549][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-12.45.16:549][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.45.16:556][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.45.16:602][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.45.16:611][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.07.02-12.45.16:794][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.07.02-12.45.22:152][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode
+[2020.07.02-12.45.26:687][985]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.45.26:687][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.45.33:073][410]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.45.33:077][410]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.45.40:389][  9]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Mainlevel.Mainlevel
+[2020.07.02-12.45.40:442][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.07.02-12.45.40:446][  9]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/Mainlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-12.45.40:446][  9]LightingResults: New page: Lighting Build
+[2020.07.02-12.45.40:447][  9]LoadErrors: New page: Loading map: Mainlevel.umap
+[2020.07.02-12.45.40:447][  9]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.45.40:447][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.45.40:447][  9]MapCheck: New page: Map Check
+[2020.07.02-12.45.40:447][  9]LightingResults: New page: Lighting Build
+[2020.07.02-12.45.40:499][  9]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.07.02-12.45.40:651][  9]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-12.45.40:722][  9]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.07.02-12.45.40:748][  9]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-12.45.40:749][  9]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.424ms to complete.
+[2020.07.02-12.45.40:749][  9]LogFileHelpers: Loading map 'Mainlevel' took 0.304
+[2020.07.02-12.45.43:436][277]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Mainlevel.Mainlevel:PersistentLevel.Mainlevel
+[2020.07.02-12.46.52:490][966]BlueprintLog: New page: Compile Mainmenu
+[2020.07.02-12.46.52:552][966]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.07.02-12.46.53:177][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Mainmenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset" SILENT=true
+[2020.07.02-12.46.53:485][ 17]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/MainmenuF18E9312484E30BF24EEA3A3FC0B718F.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/UI/Mainmenu.uasset'
+[2020.07.02-12.46.53:521][ 17]AssetCheck: New page: Asset Save: Mainmenu
+[2020.07.02-12.46.53:521][ 17]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Mainmenu.Mainmenu
+[2020.07.02-12.47.01:306][752]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.47.01:306][752]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2020.07.02-12.47.01:362][752]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.07.02-12.47.01:364][752]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.02-12.47.01:364][752]LightingResults: New page: Lighting Build
+[2020.07.02-12.47.01:365][752]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.07.02-12.47.01:424][752]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.47.01:424][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.01:472][752]LogWorld: UWorld::CleanupWorld for Mainlevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.47.01:473][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.01:473][752]MapCheck: New page: Map Check
+[2020.07.02-12.47.01:473][752]LightingResults: New page: Lighting Build
+[2020.07.02-12.47.01:534][752]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.07.02-12.47.01:631][752]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.02-12.47.01:683][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.07.02-12.47.01:708][752]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.02-12.47.01:709][752]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.383ms to complete.
+[2020.07.02-12.47.01:709][752]LogFileHelpers: Loading map 'MainMenu' took 0.345
+[2020.07.02-12.47.03:876][981]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.02-12.47.03:907][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.03:907][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-12.47.03:907][981]PIE: New page: PIE session: MainMenu (3 Jul 2020, 8:47:03 am)
+[2020.07.02-12.47.03:907][981]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.03:909][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001529s)
+[2020.07.02-12.47.03:910][981]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.47.03:910][981]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.07.02-12.47.03:910][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002814s)
+[2020.07.02-12.47.03:962][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.02-12.47.03:963][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.02-12.47.03:963][981]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.02-12.47.03:963][981]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: Is Default: Yes
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: Sample Rate: 96000
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: Channel Order:
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.02-12.47.04:006][981]LogAudioMixer: Display: 1: FrontRight
+[2020.07.02-12.47.04:024][981]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.07.02-12.47.04:026][981]LogInit: FAudioDevice initialized.
+[2020.07.02-12.47.04:079][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.47.04:079][981]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.07.02-12.47.04:080][981]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.02-22.47.04
+[2020.07.02-12.47.04:080][981]LogWorld: Bringing up level for play took: 0.000358
+[2020.07.02-12.47.04:080][981]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.07.02-12.47.04:085][981]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.02-12.47.04:088][981]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.901
+[2020.07.02-12.47.04:088][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.04:882][ 71]LogNet: Browse: /Game/Levels/Mainlevel
+[2020.07.02-12.47.04:905][ 71]LogLoad: LoadMap: /Game/Levels/Mainlevel
+[2020.07.02-12.47.04:905][ 71]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.04:919][ 71]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.47.04:919][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.04:937][ 71]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.02-12.47.04:957][ 71]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.02-12.47.05:012][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.07.02-12.47.05:250][ 71]LogAIModule: Creating AISystem for world Mainlevel
+[2020.07.02-12.47.05:250][ 71]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.07.02-12.47.05:269][ 71]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Mainlevel.Mainlevel up for play (max tick rate 0) at 2020.07.02-22.47.05
+[2020.07.02-12.47.05:269][ 71]LogWorld: Bringing up level for play took: 0.018778
+[2020.07.02-12.47.05:329][ 71]LogLoad: Took 0.424423 seconds to LoadMap(/Game/Levels/Mainlevel)
+[2020.07.02-12.47.09:658][539]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 29
+[2020.07.02-12.47.09:658][539]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.09:771][550]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 28
+[2020.07.02-12.47.09:771][550]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:034][571]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 27
+[2020.07.02-12.47.10:034][571]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:034][571]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.10:095][577]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 26
+[2020.07.02-12.47.10:095][577]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:095][577]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.10:223][590]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 25
+[2020.07.02-12.47.10:224][590]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:224][590]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.10:352][603]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 24
+[2020.07.02-12.47.10:352][603]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:353][603]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.10:477][616]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 23
+[2020.07.02-12.47.10:477][616]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:604][629]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 22
+[2020.07.02-12.47.10:604][629]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:859][654]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 21
+[2020.07.02-12.47.10:859][654]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:859][654]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.10:970][665]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 20
+[2020.07.02-12.47.10:970][665]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.10:970][665]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.11:094][677]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 19
+[2020.07.02-12.47.11:094][677]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.11:221][689]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 18
+[2020.07.02-12.47.11:222][689]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.11:533][720]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 17
+[2020.07.02-12.47.11:533][720]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.11:650][731]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 16
+[2020.07.02-12.47.11:651][731]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.11:772][743]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 15
+[2020.07.02-12.47.11:772][743]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.11:900][755]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 14
+[2020.07.02-12.47.11:900][755]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.11:900][755]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.12:025][767]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 13
+[2020.07.02-12.47.12:025][767]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.12:025][767]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.12:272][790]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 12
+[2020.07.02-12.47.12:272][790]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.12:758][839]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 11
+[2020.07.02-12.47.12:758][839]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.12:758][839]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.12:868][850]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 10
+[2020.07.02-12.47.12:869][850]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.12:869][850]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.12:992][862]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 9
+[2020.07.02-12.47.12:992][862]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.12:992][862]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:115][874]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 8
+[2020.07.02-12.47.13:115][874]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:115][874]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:241][886]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 7
+[2020.07.02-12.47.13:241][886]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:241][886]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:370][899]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 6
+[2020.07.02-12.47.13:370][899]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:370][899]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:491][911]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 5
+[2020.07.02-12.47.13:491][911]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:492][911]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:617][923]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 4
+[2020.07.02-12.47.13:617][923]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:617][923]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:739][934]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 3
+[2020.07.02-12.47.13:739][934]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:739][934]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:863][945]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 2
+[2020.07.02-12.47.13:863][945]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:863][945]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.13:985][956]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 1
+[2020.07.02-12.47.13:985][956]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.13:985][956]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.14:107][967]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 0
+[2020.07.02-12.47.14:107][967]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.14:107][967]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.15:303][ 82]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Reload Empty
+[2020.07.02-12.47.19:309][418]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 29
+[2020.07.02-12.47.19:309][418]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.19:310][418]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.19:419][425]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 28
+[2020.07.02-12.47.19:419][425]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.19:420][425]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.19:547][433]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 27
+[2020.07.02-12.47.19:547][433]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.19:547][433]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.19:676][436]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 26
+[2020.07.02-12.47.19:676][436]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.19:676][436]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.20:272][474]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 25
+[2020.07.02-12.47.20:273][474]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.20:273][474]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.20:379][483]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 24
+[2020.07.02-12.47.20:379][483]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.20:379][483]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.20:503][493]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 23
+[2020.07.02-12.47.20:503][493]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.20:503][493]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.20:629][505]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 22
+[2020.07.02-12.47.20:629][505]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.20:629][505]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.20:759][516]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 21
+[2020.07.02-12.47.20:759][516]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.20:884][526]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 20
+[2020.07.02-12.47.20:885][526]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:162][548]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 19
+[2020.07.02-12.47.21:162][548]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:163][548]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.21:275][557]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 18
+[2020.07.02-12.47.21:275][557]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:275][557]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.21:406][567]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 17
+[2020.07.02-12.47.21:406][567]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:406][567]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.21:527][576]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 16
+[2020.07.02-12.47.21:528][576]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:659][586]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 15
+[2020.07.02-12.47.21:659][586]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:659][586]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.21:791][596]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 14
+[2020.07.02-12.47.21:791][596]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:791][596]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.21:921][606]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 13
+[2020.07.02-12.47.21:921][606]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.21:921][606]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.22:049][618]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 12
+[2020.07.02-12.47.22:049][618]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.22:049][618]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.22:458][661]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 11
+[2020.07.02-12.47.22:458][661]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.22:458][661]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Blam
+[2020.07.02-12.47.22:572][673]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 10
+[2020.07.02-12.47.22:572][673]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.22:700][687]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 9
+[2020.07.02-12.47.22:700][687]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.22:826][701]LogBlueprintUserMessages: [BP_RU74_Character_C_0] 8
+[2020.07.02-12.47.22:826][701]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Fire
+[2020.07.02-12.47.23:065][727]LogBlueprintUserMessages: [BP_RU74_Character_C_0] Reload
+[2020.07.02-12.47.31:978][760]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.47.31:987][760]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.02-12.47.32:007][760]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.02-12.47.32:007][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.32:008][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.47.32:008][760]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Mainlevel
+[2020.07.02-12.47.32:022][760]LogSlate: Window 'ZombiesBruh Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.02-12.47.32:031][760]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.47.32:031][760]LogWorld: UWorld::CleanupWorld for Mainlevel, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.47.32:034][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.32:040][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-12.47.32:040][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.32:047][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.32:099][760]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.47.32:110][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.07.02-12.47.32:134][761]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.07.02-12.47.35:207][100]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.02-12.47.35:237][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.35:237][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-12.47.35:237][100]PIE: New page: PIE session: MainMenu (3 Jul 2020, 8:47:35 am)
+[2020.07.02-12.47.35:237][100]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.35:239][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001415s)
+[2020.07.02-12.47.35:240][100]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.47.35:240][100]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2020.07.02-12.47.35:240][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002654s)
+[2020.07.02-12.47.35:292][100]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.02-12.47.35:293][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.02-12.47.35:293][100]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.02-12.47.35:293][100]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: Is Default: Yes
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: Sample Rate: 96000
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: Channel Order:
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.02-12.47.35:338][100]LogAudioMixer: Display: 1: FrontRight
+[2020.07.02-12.47.35:358][100]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.07.02-12.47.35:359][100]LogInit: FAudioDevice initialized.
+[2020.07.02-12.47.35:409][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.47.35:410][100]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.07.02-12.47.35:410][100]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.02-22.47.35
+[2020.07.02-12.47.35:411][100]LogWorld: Bringing up level for play took: 0.000378
+[2020.07.02-12.47.35:411][100]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.07.02-12.47.35:415][100]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.02-12.47.35:419][100]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.232
+[2020.07.02-12.47.35:419][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.36:207][189]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.47.36:207][189]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.47.36:207][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.47.37:207][305]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.47.37:207][305]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.47.37:207][305]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.47.38:211][424]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.47.38:211][424]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.47.38:211][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.47.39:114][530]LogSlate: Window 'ZombiesBruh Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.02-12.47.39:121][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.39:121][530]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.39:137][530]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.02-12.47.39:156][530]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.02-12.47.39:157][530]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.47.39:157][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.39:165][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-12.47.39:165][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.39:172][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.39:220][530]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.47.39:229][530]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.07.02-12.47.39:380][531]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.07.02-12.47.40:624][652]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.47.40:630][652]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.47.42:670][866]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.02-12.47.42:700][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.42:700][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-12.47.42:700][866]PIE: New page: PIE session: MainMenu (3 Jul 2020, 8:47:42 am)
+[2020.07.02-12.47.42:700][866]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.42:702][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001577s)
+[2020.07.02-12.47.42:703][866]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.47.42:703][866]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2020.07.02-12.47.42:703][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002885s)
+[2020.07.02-12.47.42:754][866]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.02-12.47.42:755][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.02-12.47.42:755][866]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.02-12.47.42:755][866]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: Is Default: Yes
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: Sample Rate: 96000
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: Channel Order:
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.02-12.47.42:798][866]LogAudioMixer: Display: 1: FrontRight
+[2020.07.02-12.47.42:819][866]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.07.02-12.47.42:820][866]LogInit: FAudioDevice initialized.
+[2020.07.02-12.47.42:875][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.47.42:875][866]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.07.02-12.47.42:876][866]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.02-22.47.42
+[2020.07.02-12.47.42:876][866]LogWorld: Bringing up level for play took: 0.000376
+[2020.07.02-12.47.42:876][866]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.07.02-12.47.42:881][866]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.02-12.47.42:884][866]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.303
+[2020.07.02-12.47.42:885][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.43:672][955]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.47.43:672][955]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.47.43:672][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.47.44:670][ 73]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.47.44:670][ 73]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.47.44:670][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.47.45:670][191]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.47.45:670][191]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.47.45:670][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.47.45:766][201]LogSlate: Window 'ZombiesBruh Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.02-12.47.45:772][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.45:772][201]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.45:787][201]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.02-12.47.45:807][201]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.02-12.47.45:808][201]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.47.45:808][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.45:813][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-12.47.45:813][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.45:819][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.45:867][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.47.45:876][201]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.07.02-12.47.46:031][202]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.07.02-12.47.47:373][340]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.47.47:380][340]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.47.49:462][555]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.02-12.47.49:491][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.49:492][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.02-12.47.49:492][555]PIE: New page: PIE session: MainMenu (3 Jul 2020, 8:47:49 am)
+[2020.07.02-12.47.49:492][555]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.49:493][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001372s)
+[2020.07.02-12.47.49:494][555]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.02-12.47.49:494][555]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2020.07.02-12.47.49:494][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.002581s)
+[2020.07.02-12.47.49:544][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.02-12.47.49:545][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.02-12.47.49:545][555]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.02-12.47.49:545][555]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: Is Default: Yes
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: Sample Rate: 96000
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: Channel Order:
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.02-12.47.49:585][555]LogAudioMixer: Display: 1: FrontRight
+[2020.07.02-12.47.49:604][555]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.07.02-12.47.49:605][555]LogInit: FAudioDevice initialized.
+[2020.07.02-12.47.49:658][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.47.49:659][555]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.07.02-12.47.49:659][555]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.02-22.47.49
+[2020.07.02-12.47.49:660][555]LogWorld: Bringing up level for play took: 0.000338
+[2020.07.02-12.47.49:660][555]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.07.02-12.47.49:664][555]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.02-12.47.49:668][555]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.481
+[2020.07.02-12.47.49:668][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.50:460][644]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpawnerList' of length 0 in '/Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C'!
+[2020.07.02-12.47.50:461][644]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_FPS_GameMode_C /Game/Levels/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.BP_FPS_GameMode_C_0
+	Function /Game/FPS_Assault_Pack/Blueprints/BP_FPS_GameMode.BP_FPS_GameMode_C:ExecuteUbergraph_BP_FPS_GameMode:0196
+[2020.07.02-12.47.50:461][644]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  BP_FPS_GameMode Function:  Execute Ubergraph BP FPS Game Mode Graph:  EventGraph Node:  Spawn Enemy
+[2020.07.02-12.47.50:534][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.02-12.47.50:534][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.50:534][651]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2020.07.02-12.47.50:547][651]LogSlate: Window 'ZombiesBruh Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.02-12.47.50:556][651]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.02-12.47.50:587][651]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.02-12.47.50:587][651]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.02-12.47.50:587][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.50:593][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.02-12.47.50:593][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.02-12.47.50:599][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.02-12.47.50:646][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.02-12.47.50:655][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.07.02-12.47.50:795][652]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.07.02-12.47.52:211][797]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.47.52:219][797]LogSlate: Window 'Message Log' being destroyed
+[2020.07.02-12.47.58:046][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu" FILE="../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.02-12.47.58:094][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.07.02-12.47.58:536][476]LogSavePackage: Moving '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Saved/MainMenu3BF7E8CF4F78A3C56BE35FB7D14B13C9.tmp' to '../../../../../Unreal Projects/CodZombiesBruh/ZombiesBruh/Content/Levels/MainMenu.umap'
+[2020.07.02-12.47.58:598][476]LogFileHelpers: Saving map 'MainMenu' took 0.553
+[2020.07.02-12.47.58:623][476]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.02-12.47.58:623][476]LogContentValidation: Display: Validating World /Game/Levels/MainMenu.MainMenu
